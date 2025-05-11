@@ -45,9 +45,4 @@ A high-performance Visual Question Answering (VQA) system combining **ViT** for 
 | 2×L4 GPU       | ~1.44      | ~0.96×            | Underperformed, syncing issues? |
 | 4×L4 GPU (DDP) | **~0.098** | 1.0× (baseline)   | Best overall performance   |
 
----
 
-## 🙌 Authors
-
-- dg4140 
-- ac11274
