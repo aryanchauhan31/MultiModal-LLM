@@ -1,4 +1,4 @@
-# 🧠 Multimodal LLM Optimization: Cross-Modality Understanding
+# 🧠 Multimodal LLM Optimization: Unified Embedding Decoder Understanding
 
 A high-performance Visual Question Answering (VQA) system combining **ViT** for image processing and **BERT** for text analysis. This project builds efficient multimodal models through distributed training, knowledge distillation, and architecture optimizatiomn.
 
